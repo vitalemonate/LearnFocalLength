@@ -22,7 +22,7 @@
 
 * 像素点以模拟图像信号的形式转移到“**模数转换器**”上，转换成数字信号，传送到**图像处理器**上，处理成真正的图像
 
-  <div style="text-align: center">
+  <div align=center>
   <img src="./pictures/02.jpg"/>
   </div>
 
@@ -38,13 +38,13 @@
 
 ### 相机的底片
 
-<div style="text-align: center">
+<div align=center>
 <img src="./pictures/03.jpg"/>
 </div>
 
 **感光底**负责将图像采集。目前主流的底都是**CMOS**，所以下文以**CMOS**代称感光底。底有大有小，其计算方式因为一些历史遗留问题而比较特殊。
 
-<div style="text-align: center">
+<div align=center>
 <img src="./pictures/04.jpg"/>
 </div>
 
@@ -64,7 +64,7 @@
 
 直观地来说，**CMOS**的大小会影响成像的**视角**
 
-<div style="text-align: center">
+<div align=center>
 <img src="./pictures/06.jpg" width = "480" height = "480" />
 </div>
 
@@ -112,7 +112,7 @@
 
 插值像素并不是数码相机本身的有效像素，它的取值只是在摄像时用软件优化处理后所提升的像素值，数码相机内部的DSP芯片根据中心像素点的颜色参数，模拟出周边像素值的方法，是数码相机特有的放大数码照片的软件手段。
 
-<div style="text-align: center">
+<div align=center>
 <img src="./pictures/08.jpg" width = "480" height = "480" />
 </div>
 
@@ -154,7 +154,7 @@
 
 ### 等效焦距与视角的对应关系
 
-<div style="text-align: center">
+<div align=center>
 <img src="./pictures/07.jpg"/>
 </div>
 
@@ -171,7 +171,7 @@
 
 参考博客中的推导过程如下:
 
-<div style="text-align: center">
+<div align=center>
 <img src="./pictures/09.jpg"/>
 </div>
 
